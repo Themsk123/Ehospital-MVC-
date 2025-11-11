@@ -76,5 +76,10 @@ Using [pip](https://pip.pypa.io/en/stable/):
 pytest
 ```
 
+✨ Credits
+
+This project was initially inspired by open-source healthcare systems built in Django.
+Additional improvements and customizations have been made for learning and demonstration purposes.
+
 🔙 [Return](#table-of-contents)
 
